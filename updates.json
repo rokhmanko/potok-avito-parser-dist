@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "potok-avito-parser@logmol.ru": {
+      "updates": [
+        {
+          "version": "1.7.5",
+          "update_link": "https://github.com/rokhmanko/potok-avito-parser-dist/releases/download/v1.7.5/potok-avito-parser-1.7.5.xpi"
+        }
+      ]
+    }
+  }
+}
